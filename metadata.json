@@ -1,0 +1,6 @@
+{
+  "name": "RunBD Car Gallery",
+  "description": "Professional Car Watermark and Branding Studio for dealerships and car photographers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
