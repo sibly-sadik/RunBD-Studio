@@ -19,6 +19,7 @@ import {
   Moon,
   Languages
 } from 'lucide-react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 const LOGO_SRC = '/assets/img/logo_24b51984.png';
 
@@ -623,6 +624,7 @@ export default function App() {
       <footer className="border-t border-slate-800 py-6 px-6 text-center text-xs text-slate-500 bg-slate-900/50">
         {t.footer}
       </footer>
+      <SpeedInsights />
     </div>
   );
 }
