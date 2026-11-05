@@ -20,7 +20,7 @@ import {
   Languages
 } from 'lucide-react';
 
-const LOGO_SRC = '/assets/aistudio/logo_24b51984.png';
+const LOGO_SRC = '/assets/img/logo_24b51984.png';
 
 interface ProcessedImageItem {
   id: string;
