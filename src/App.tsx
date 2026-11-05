@@ -621,8 +621,16 @@ export default function App() {
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-slate-800 py-6 px-6 text-center text-xs text-slate-500 bg-slate-900/50">
-        {t.footer}
+      <footer className="border-t border-slate-800 py-6 px-6 text-center text-xs text-slate-500 bg-slate-900/50 flex flex-col md:flex-row items-center justify-center gap-2">
+        <span>{t.footerText}</span>
+        <a
+          href="https://siblysadik-dev.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-400 hover:text-blue-300 font-semibold transition-colors underline"
+        >
+          Shimul.Dev
+        </a>
       </footer>
       <SpeedInsights />
     </div>
