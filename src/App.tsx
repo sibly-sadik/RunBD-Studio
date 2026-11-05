@@ -60,7 +60,7 @@ const TRANSLATIONS = {
     opacity: 'Watermark Opacity',
     scale: 'Logo & Badge Scale',
     downloadAllBranded: 'Download All Branded Photos',
-    footer: 'RunBD Car Gallery • Professional Batch Watermarking Studio',
+    footer: 'RunBD Car Gallery • Professional Batch Watermarking • Developed by',
     logoTopLinksBottom: 'Logo Top + Links Bottom Applied'
   },
   bn: {
@@ -91,7 +91,7 @@ const TRANSLATIONS = {
     opacity: 'ওয়াটারমার্ক অপাসিটি (স্বচ্ছতা)',
     scale: 'লোগো ও ব্যাজ সাইজ',
     downloadAllBranded: 'সকল ব্র্যান্ডেড ছবি ডাউনলোড করুন',
-    footer: 'রানবিডি কার গ্যালারি • প্রফেশনাল ব্যাচ ওয়াটারমার্কিং স্টুডিও',
+    footer: 'রানবিডি কার গ্যালারি • প্রফেশনাল ব্যাচ ওয়াটারমার্কিং স্টুডিও • ডেভেলপড বাই',
     logoTopLinksBottom: 'লোগো উপরে + লিংক নিচে সফলভাবে যুক্ত হয়েছে'
   }
 };
